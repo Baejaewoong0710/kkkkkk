@@ -1,0 +1,9 @@
+streamlit>=1.25.0
+numpy>=1.22.0
+matplotlib>=3.5.0
+Flask==2.3.2
+Flask-Cors==3.0.10
+gunicorn==21.2.0
+requests==2.31.0
+pandas==2.1.1
+scipy==1.11.2
